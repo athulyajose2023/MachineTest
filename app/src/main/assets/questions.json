@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "answer_id": 160,
+      "countries": [
+        { "country_name": "Bosnia and Herzegovina", "id": 29 },
+        { "country_name": "Mauritania", "id": 142 },
+        { "country_name": "Chile", "id": 45 },
+        { "country_name": "New Zealand", "id": 160 }
+      ],
+      "country_code": "NZ"
+    },
+    {
+      "answer_id": 13,
+      "countries": [
+        { "country_name": "Aruba", "id": 13 },
+        { "country_name": "Serbia", "id": 184 },
+        { "country_name": "Ecuador", "id": 66 },
+        { "country_name": "Bhutan", "id": 26 }
+      ],
+      "country_code": "EC"
+    }
+  ]
+}
